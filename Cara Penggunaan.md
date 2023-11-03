@@ -14,14 +14,16 @@
 
  - menu makanan untuk opsi membeli makanan
  
-  ![image_2023-11-03_171546629](https://github.com/PA-DASPRO-Kelompok-4/PA-DASPRO-KEL-4-/assets/144750420/9639a8db-3bab-42ed-bb48-ded1d7a52f0b)
+  ![image_2023-11-03_220030637](https://github.com/PA-DASPRO-Kelompok-4/PA-DASPRO-KEL-4-/assets/144750420/6abbf867-bd9b-4297-a216-a1bb77f4d453)
+
 
 - user memilih menu dan memilih metode pembayaran
-  ![image_2023-11-03_172104456](https://github.com/PA-DASPRO-Kelompok-4/PA-DASPRO-KEL-4-/assets/144750420/84b3f875-fcc4-48fa-b6bf-5961a41d9b08)
+![image_2023-11-03_220148656](https://github.com/PA-DASPRO-Kelompok-4/PA-DASPRO-KEL-4-/assets/144750420/50d80eac-f6e1-4836-a838-d4a5a7be20b0)
+
 
 - setelah melakukan pembayaran akan menampilkan invoice
 
-  ![image_2023-11-03_180530038](https://github.com/PA-DASPRO-Kelompok-4/PA-DASPRO-KEL-4-/assets/144750420/3243a49b-54de-4166-b370-a8beb8758bb8)
+![image_2023-11-03_220231650](https://github.com/PA-DASPRO-Kelompok-4/PA-DASPRO-KEL-4-/assets/144750420/11170b7a-ec65-4bea-a639-727673465192)
 
 
 
